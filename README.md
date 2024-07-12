@@ -1,3 +1,3 @@
-1. Comandos:
-2. npm install
-3. npx cypress open
+Para rodar o projeto em sua máquina, execute os comandos abaixo:
+1. npm install
+2. npx cypress open
