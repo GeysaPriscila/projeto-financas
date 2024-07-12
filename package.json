@@ -1,0 +1,15 @@
+{
+  "name": "projeto-financas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --config viewportHeight=1000,viewportWidth=600"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.0"
+  }
+}
